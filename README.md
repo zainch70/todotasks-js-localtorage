@@ -1,5 +1,3 @@
-Sure, here's a more formatted and polished version for your GitHub repository description:
-ToDo App with Text-to-Speech, JavaScript, and Tailwind CSS
 Overview
 
 Welcome to the ToDo App repository! This project is a simple yet powerful ToDo application built using JavaScript and styled with Tailwind CSS. One of the standout features of this app is the integration of text-to-speech functionality, making it accessible and user-friendly.
